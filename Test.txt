@@ -1,0 +1,1 @@
+This is a file only in NEW branch and not in master branch
